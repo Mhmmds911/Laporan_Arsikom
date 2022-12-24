@@ -58,7 +58,7 @@ Colokkan usb dari arduino ke komputer atau laptop untuk proses coding.
 ## Coding
 Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.
 
-```
+```C++
 #include <LiquidCrystal_I2C.h>
 
 LiquidCrystal_I2C lcd(0x27,16,2);
