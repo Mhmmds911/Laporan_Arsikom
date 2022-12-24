@@ -58,6 +58,7 @@ Colokkan usb dari arduino ke komputer atau laptop untuk proses coding.
 ## Coding
 Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.
 
+```
 #include <LiquidCrystal_I2C.h>
 
 LiquidCrystal_I2C lcd(0x27,16,2);
@@ -87,6 +88,7 @@ void loop()
     digitalWrite(firstBuzzer, LOW);
   }
 }
+```
 
 ## Output
 Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan “Fire Detected”, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi “Fire Undetected”.
