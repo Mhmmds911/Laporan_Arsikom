@@ -25,24 +25,12 @@ Sensor api (Flame sensor) adalah perangkat yang dapat digunakan untuk mendeteksi
 Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND dan DO. Hubungkan VCC dan GND ke +5V dan GND catu daya (dapat dihubungkan ke +5V Arduino). DO (kependekan dari Digital Output) terhubung ke Digital I/O Pin 11 Arduino. Untuk menunjukkan deteksi api, Buzzer digunakan. Rangkaian Buzzer terdiri dari Resistor 1KΩ, Transistor NPN (seperti 2N2222 atau BC548), Buzzer 5V dan Dioda Persimpangan PN. Lalu untuk buzzer digerakkan melalui Digital I/O 12 pin Arduino UNO.
 
 ### Alat dan Bahan
-Arduino Uno SMD, sebagai komponen utama dari rangkaian ini, berfungsi mengontrol alur rangkaian. Terdapat berbagai port, yaitu POWER untuk kelistrikannya, ANALOG IN untuk input sensor yang mengeluarkan data analog, dan DIGITAL untuk input dan output data digital.
-
-Arduino UNO SMD
-Flame Sensor IR (Infrared), sensor utama yang mendeteksi api, dengan menggunakan inframerah. Terdapat 3 pin yaitu, VCC untuk input listriknya, GND untuk jalur minusnya, DO untuk mengeluarkan data digital ke Arduino.
-
-Flame Sensor IR
-Active Buzzer 5v, berfungsi mengeluarkan suara. Dalam rangkaian ini, buzzer akan menyala ketika sensor mendeteksi api. Terdapat dua pin yaitu VCC dan GND.
-
-Active Buzzer
-LCD I2C 16x2, mengeluarkan keterangan berbentuk text, dapat mengeluarkan text 2 baris dengan panjang 16 karakter. Terdapat 4 pin yaitu SDA dan SDL untuk data input dan outputnya lalu ada VCC dan GND.
-
-LCD I2C 16x2
-Breadboard, project board untuk menghubungkan berbagai komponen.
-
-Breadboard
-Kabel Jumper, untuk menghubungkan pin komponen.
-
-Kabel Jumper
+- Arduino Uno SMD, <p align="justify">sebagai komponen utama dari rangkaian ini, berfungsi mengontrol alur rangkaian. Terdapat berbagai port, yaitu POWER untuk kelistrikannya, ANALOG IN untuk input sensor yang mengeluarkan data analog, dan DIGITAL untuk input dan output data digital.</p>
+- Flame Sensor IR (Infrared), <p align="justify">sensor utama yang mendeteksi api, dengan menggunakan inframerah. Terdapat 3 pin yaitu, VCC untuk input listriknya, GND untuk jalur minusnya, DO untuk mengeluarkan data digital ke Arduino.</p>
+- Active Buzzer 5v, <p align="justify">berfungsi mengeluarkan suara. Dalam rangkaian ini, buzzer akan menyala ketika sensor mendeteksi api. Terdapat dua pin yaitu VCC dan GND.</p>
+- LCD I2C 16x2, <p align="justify">mengeluarkan keterangan berbentuk text, dapat mengeluarkan text 2 baris dengan panjang 16 karakter. Terdapat 4 pin yaitu SDA dan SDL untuk data input dan outputnya lalu ada VCC dan GND.</p>
+- Breadboard, <p align="justify">project board untuk menghubungkan berbagai komponen.</p>
+- Kabel Jumper, <p align="justify">untuk menghubungkan pin komponen.</p>
 
 ### Cara Perangkaian
 Pasang flame sensor dan buzzer pada breadboard.
@@ -97,7 +85,6 @@ void loop()
 <p align="justify">
  Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan “Fire Detected”, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi “Fire Undetected”.
 </p>
-
 
 <div align='center'>
  
