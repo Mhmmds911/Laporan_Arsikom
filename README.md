@@ -98,6 +98,6 @@ Ketika Mendeteksi Api
 Laporan lengkapnya bisa dilihat pada link berikut:
 
 ## Referensi
-Arkan, F. (2014). Sistem Detektor Kebakaran untuk Rumah Susun dengan Sistem Wireless Sensor Network. Jurnal Ecotipe (Electronic, Control, Telecommunication, Information, and Power Engineering), 1(1), 5–13.
-Kali, M. M., Tarigan, J., & Louk, A. C. (2016). Sistem Alarm Kebakaran menggunakan sensor infra red dan sensor suhu berbasis Arduino uno. Jurnal Fisika: Fisika Sains dan Aplikasinya, 1(1), 25–31.
-Yulianto, B. A. (2021). Simulasi Sistem Proteksi Untuk Kebakaran Pada Ruangan Bersekat Menggunakan Gas Sensor MQ2 Berbasis Internet of Things. (Doctoral dissertation, Universitas 17 Agustus 1945 Surabaya).
+- Arkan, F. (2014). Sistem Detektor Kebakaran untuk Rumah Susun dengan Sistem Wireless Sensor Network. Jurnal Ecotipe (Electronic, Control, Telecommunication, Information, and Power Engineering), 1(1), 5–13.
+- Kali, M. M., Tarigan, J., & Louk, A. C. (2016). Sistem Alarm Kebakaran menggunakan sensor infra red dan sensor suhu berbasis Arduino uno. Jurnal Fisika: Fisika Sains dan Aplikasinya, 1(1), 25–31.
+- Yulianto, B. A. (2021). Simulasi Sistem Proteksi Untuk Kebakaran Pada Ruangan Bersekat Menggunakan Gas Sensor MQ2 Berbasis Internet of Things. (Doctoral dissertation, Universitas 17 Agustus 1945 Surabaya).
