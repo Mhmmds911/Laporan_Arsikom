@@ -35,6 +35,7 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
  
  *Arduino Uno SMD*
  </div>
+ 
 - <p align="justify">Flame Sensor IR (Infrared), sensor utama yang mendeteksi api, dengan menggunakan inframerah. Terdapat 3 pin yaitu, VCC untuk input listriknya, GND untuk jalur minusnya, DO untuk mengeluarkan data digital ke Arduino.</p>
 <div align='center'>
  
@@ -42,6 +43,7 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
  
  *Flame Sensor IR (Infrared)*
  </div>
+ 
 - <p align="justify">Active Buzzer 5v, berfungsi mengeluarkan suara. Dalam rangkaian ini, buzzer akan menyala ketika sensor mendeteksi api. Terdapat dua pin yaitu VCC dan GND.</p>
 <div align='center'>
  
@@ -49,6 +51,7 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
  
  *Active Buzzer 5v*
  </div>
+ 
 - <p align="justify">LCD I2C 16x2, mengeluarkan keterangan berbentuk text, dapat mengeluarkan text 2 baris dengan panjang 16 karakter. Terdapat 4 pin yaitu SDA dan SDL untuk data input dan outputnya lalu ada VCC dan GND.</p>
 <div align='center'>
  
@@ -56,6 +59,7 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
  
  *LCD I2C 16x2*
  </div>
+ 
 - <p align="justify">Breadboard, project board untuk menghubungkan berbagai komponen.</p>
 <div align='center'>
  
@@ -63,6 +67,7 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
  
  *Breadboard*
  </div>
+ 
 - <p align="justify">Kabel Jumper, untuk menghubungkan pin komponen.</p>
 <div align='center'>
  
