@@ -93,7 +93,7 @@ void loop()
 ## Output
 
 <p align="justify">
- Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan ***“Fire Detected”***, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi ***“Fire Undetected”***.
+ Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan **“Fire Detected”**, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi **“Fire Undetected”**.
 </p>
 
 
