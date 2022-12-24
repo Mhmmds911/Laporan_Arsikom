@@ -1,5 +1,5 @@
 # UJIAN AKHIR SEMESTER
-## KELOMPOK 7
+## ANGGOTA KELOMPOK
 <div align='center'>
  
 ![Teams](https://img.shields.io/badge/Anggota%20Kelompok-Kelompok%207-purple)
