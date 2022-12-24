@@ -138,7 +138,7 @@ Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter,
  *Ketika Mendeteksi Api*
  </div>
 
-Laporan lengkapnya bisa dilihat pada link berikut: [Laporan UAS - Organisasi dan Arsitektur Komputer - Kelompok 7](https://github.com/Mhmmds911/Laporan_Arsikom/raw/main/LAPORAN%20ORGANISASI%20%26%20ARSITEKTUR%20KOMPUTER_KELOMPOK%207.pdf)
+Laporan lengkapnya bisa didownload pada link berikut: [Laporan UAS - Organisasi dan Arsitektur Komputer - Kelompok 7](https://github.com/Mhmmds911/Laporan_Arsikom/raw/main/LAPORAN%20ORGANISASI%20%26%20ARSITEKTUR%20KOMPUTER_KELOMPOK%207.pdf)
 
 ## Referensi
 - Arkan, F. (2014). Sistem Detektor Kebakaran untuk Rumah Susun dengan Sistem Wireless Sensor Network. Jurnal Ecotipe (Electronic, Control, Telecommunication, Information, and Power Engineering), 1(1), 5–13.
