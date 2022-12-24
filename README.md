@@ -22,7 +22,8 @@
 ## Deskripsi Umum
 <p align="justify">
 Sensor api (Flame sensor) adalah perangkat yang dapat digunakan untuk mendeteksi keberadaan sumber api atau sumber cahaya terang lainnya. Ada beberapa cara untuk mengimplementasikan Sensor Api tetapi modul yang digunakan dalam proyek ini adalah Sensor Peka Radiasi Inframerah. Dengan menghubungkan Flame Sensor dengan Arduino, Anda dapat mendeteksi api dan mengaktifkan Buzzer (implementasi sederhana dan mudah) atau pengukuran keselamatan darurat lainnya.
-
+</p>
+<p align="justify">
 Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND dan DO. Hubungkan VCC dan GND ke +5V dan GND catu daya (dapat dihubungkan ke +5V Arduino). DO (kependekan dari Digital Output) terhubung ke Digital I/O Pin 11 Arduino. Untuk menunjukkan deteksi api, Buzzer digunakan. Rangkaian Buzzer terdiri dari Resistor 1KΩ, Transistor NPN (seperti 2N2222 atau BC548), Buzzer 5V dan Dioda Persimpangan PN. Lalu untuk buzzer digerakkan melalui Digital I/O 12 pin Arduino UNO.
 </p>
 
