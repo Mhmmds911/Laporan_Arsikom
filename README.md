@@ -97,7 +97,7 @@ Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter,
  
 ![Ketika Mendeteksi Api](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
  
- Ketika Mendeteksi Api
+ *Ketika Mendeteksi Api*
  </div>
 
 Laporan lengkapnya bisa dilihat pada link berikut:
