@@ -38,35 +38,35 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
 - <p align="justify">Flame Sensor IR (Infrared), sensor utama yang mendeteksi api, dengan menggunakan inframerah. Terdapat 3 pin yaitu, VCC untuk input listriknya, GND untuk jalur minusnya, DO untuk mengeluarkan data digital ke Arduino.</p>
 <div align='center'>
  
-![Flame Sensor IR]([https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp](https://miro.medium.com/max/578/1*yUEXt9Fwl1pGXH-rx7oGEQ.webp))
+![Flame Sensor IR](https://miro.medium.com/max/578/1*yUEXt9Fwl1pGXH-rx7oGEQ.webp)
  
  *Flame Sensor IR (Infrared)*
  </div>
 - <p align="justify">Active Buzzer 5v, berfungsi mengeluarkan suara. Dalam rangkaian ini, buzzer akan menyala ketika sensor mendeteksi api. Terdapat dua pin yaitu VCC dan GND.</p>
 <div align='center'>
  
-![Active Buzzer](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+![Active Buzzer](https://miro.medium.com/max/486/1*AV5i2FhI_0BmEpu4T4UuCw.webp)
  
  *Active Buzzer 5v*
  </div>
 - <p align="justify">LCD I2C 16x2, mengeluarkan keterangan berbentuk text, dapat mengeluarkan text 2 baris dengan panjang 16 karakter. Terdapat 4 pin yaitu SDA dan SDL untuk data input dan outputnya lalu ada VCC dan GND.</p>
 <div align='center'>
  
-![LCD I2C 16x2](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+![LCD I2C 16x2](https://miro.medium.com/max/502/1*qsuxi7TNTjikzq4SfziTFg.webp)
  
  *LCD I2C 16x2*
  </div>
 - <p align="justify">Breadboard, project board untuk menghubungkan berbagai komponen.</p>
 <div align='center'>
  
-![Breadboard](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+![Breadboard](https://miro.medium.com/max/552/1*2Gd1RQjMCtg2e3OzrigkIg.webp)
  
  *Breadboard*
  </div>
 - <p align="justify">Kabel Jumper, untuk menghubungkan pin komponen.</p>
 <div align='center'>
  
-![Kabel Jumper](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+![Kabel Jumper](https://miro.medium.com/max/486/1*c5dL2Onv3bd7V3gFPs-mOw.webp)
  
  *Kabel Jumper*
  </div>
