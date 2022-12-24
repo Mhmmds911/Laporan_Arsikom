@@ -24,7 +24,7 @@ Sensor api (Flame sensor) adalah perangkat yang dapat digunakan untuk mendeteksi
 
 Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND dan DO. Hubungkan VCC dan GND ke +5V dan GND catu daya (dapat dihubungkan ke +5V Arduino). DO (kependekan dari Digital Output) terhubung ke Digital I/O Pin 11 Arduino. Untuk menunjukkan deteksi api, Buzzer digunakan. Rangkaian Buzzer terdiri dari Resistor 1KΩ, Transistor NPN (seperti 2N2222 atau BC548), Buzzer 5V dan Dioda Persimpangan PN. Lalu untuk buzzer digerakkan melalui Digital I/O 12 pin Arduino UNO.
 
-Alat dan Bahan
+### Alat dan Bahan
 Arduino Uno SMD, sebagai komponen utama dari rangkaian ini, berfungsi mengontrol alur rangkaian. Terdapat berbagai port, yaitu POWER untuk kelistrikannya, ANALOG IN untuk input sensor yang mengeluarkan data analog, dan DIGITAL untuk input dan output data digital.
 
 Arduino UNO SMD
@@ -43,7 +43,8 @@ Breadboard
 Kabel Jumper, untuk menghubungkan pin komponen.
 
 Kabel Jumper
-Cara Perangkaian
+
+### Cara Perangkaian
 Pasang flame sensor dan buzzer pada breadboard.
 Hubungkan pin ground (GND) flame sensor dan buzzer ke jalur negatif pada breadboard.
 Hubungkan pin VCC dari flame sensor ke jalur positif pada breadboard.
@@ -55,6 +56,7 @@ Hubungkan pin VCC dari LCD I2C ke jalur positif pada breadboard.
 Hubungkan pin GND dari LCD I2C ke jalur negatif pada breadboard.
 Hubungkan pin SDA dan SCL ke port SDA dan SCL pada arduino.
 Colokkan usb dari arduino ke komputer atau laptop untuk proses coding.
+
 ## Coding
 Install terlebih dahulu Arduino IDE-nya, lalu buka aplikasinya, untuk codingan dari rangkaian ini adalah sebagai berikut.
 
@@ -93,7 +95,7 @@ void loop()
 ## Output
 
 <p align="justify">
- Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan **“Fire Detected”**, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi **“Fire Undetected”**.
+ Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan **“Fire Detected”**, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi **“Fire Undetected”.
 </p>
 
 
