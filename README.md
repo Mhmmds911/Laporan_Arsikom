@@ -29,11 +29,47 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
 
 ### Alat dan Bahan
 - <p align="justify">Arduino Uno SMD, sebagai komponen utama dari rangkaian ini, berfungsi mengontrol alur rangkaian. Terdapat berbagai port, yaitu POWER untuk kelistrikannya, ANALOG IN untuk input sensor yang mengeluarkan data analog, dan DIGITAL untuk input dan output data digital.</p>
+<div align='center'>
+ 
+![Arduino Uno SMD](https://miro.medium.com/max/640/1*U9NqSqX69NY-0Se2EZYc5g.webp)
+ 
+ *Arduino Uno SMD*
+ </div>
 - <p align="justify">Flame Sensor IR (Infrared), sensor utama yang mendeteksi api, dengan menggunakan inframerah. Terdapat 3 pin yaitu, VCC untuk input listriknya, GND untuk jalur minusnya, DO untuk mengeluarkan data digital ke Arduino.</p>
+<div align='center'>
+ 
+![Flame Sensor IR]([https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp](https://miro.medium.com/max/578/1*yUEXt9Fwl1pGXH-rx7oGEQ.webp))
+ 
+ *Flame Sensor IR (Infrared)*
+ </div>
 - <p align="justify">Active Buzzer 5v, berfungsi mengeluarkan suara. Dalam rangkaian ini, buzzer akan menyala ketika sensor mendeteksi api. Terdapat dua pin yaitu VCC dan GND.</p>
+<div align='center'>
+ 
+![Active Buzzer](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+ 
+ *Active Buzzer 5v*
+ </div>
 - <p align="justify">LCD I2C 16x2, mengeluarkan keterangan berbentuk text, dapat mengeluarkan text 2 baris dengan panjang 16 karakter. Terdapat 4 pin yaitu SDA dan SDL untuk data input dan outputnya lalu ada VCC dan GND.</p>
+<div align='center'>
+ 
+![LCD I2C 16x2](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+ 
+ *LCD I2C 16x2*
+ </div>
 - <p align="justify">Breadboard, project board untuk menghubungkan berbagai komponen.</p>
+<div align='center'>
+ 
+![Breadboard](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+ 
+ *Breadboard*
+ </div>
 - <p align="justify">Kabel Jumper, untuk menghubungkan pin komponen.</p>
+<div align='center'>
+ 
+![Kabel Jumper](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
+ 
+ *Kabel Jumper*
+ </div>
 
 ### Cara Perangkaian
 - <p align="justify">Pasang flame sensor dan buzzer pada breadboard</p>
