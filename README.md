@@ -93,8 +93,8 @@ void loop()
 ## Output
 Output dari rangkaian di atas adalah ketika ada api dalam jarak dibawah 1 meter, sensor akan mendeteksinya dan buzzer akan menyala serta pada lcd akan muncul tulisan “Fire Detected”, ketika tidak ada api buzzer akan mati dan tulisan di lcd akan berganti menjadi “Fire Undetected”.
 
+![Ketika Mendeteksi Api](https://miro.medium.com/max/640/1*iuMl6kcJYKmbi9v7xNY7Ag.webp)
 
-Ketika Mendeteksi Api
 Laporan lengkapnya bisa dilihat pada link berikut:
 
 ## Referensi
