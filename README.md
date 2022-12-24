@@ -33,10 +33,13 @@ Flame Sensor bisa memiliki tiga pin atau empat pin, diantaranya yaitu VCC, GND d
 - <p align="justify">Kabel Jumper, untuk menghubungkan pin komponen.</p>
 
 ### Cara Perangkaian
-Pasang flame sensor dan buzzer pada breadboard.
-Hubungkan pin ground (GND) flame sensor dan buzzer ke jalur negatif pada breadboard.
-Hubungkan pin VCC dari flame sensor ke jalur positif pada breadboard.
-Hubungkan pin VCC dari buzzer ke pin 9 pada arduino.
+<p align="justify">
+ - Pasang flame sensor dan buzzer pada breadboard.
+ - Hubungkan pin ground (GND) flame sensor dan buzzer ke jalur negatif pada breadboard.
+ - Hubungkan pin VCC dari flame sensor ke jalur positif pada breadboard.
+ - Hubungkan pin VCC dari buzzer ke pin 9 pada arduino.
+</p>
+
 Hubungkan pin digital output (DO) dari flame sensor ke pin 8 pada arduino.
 Hubungkan power out 5v dari arduino ke jalur positif pada breadboard.
 Hubungkan GND dari arduino ke jalur negatif pada breadboard.
